@@ -1,0 +1,22 @@
+
+body{
+    background-image: url("wallpaper.jpg");
+}
+ul il{
+    display: inline-block;
+}
+
+
+.icons{
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+nav{
+    font-family: cursive;
+}
+.head{
+    color: white;
+}
+h2{
+    color: white;
+}
